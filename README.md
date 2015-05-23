@@ -33,7 +33,7 @@ Good luck!
 
 # Loading the data
 
-Load the dplyr library, useed later to manipulate the data frame.
+Load the dplyr library, used later to manipulate the data frame.
 
 ```{r}
 library(dplyr)
